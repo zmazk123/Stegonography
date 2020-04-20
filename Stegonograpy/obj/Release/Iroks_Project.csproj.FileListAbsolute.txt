@@ -1,0 +1,9 @@
+C:\Users\Marko\Desktop\Iroks_Project\Iroks_Project\bin\Release\Iroks_Project.exe.config
+C:\Users\Marko\Desktop\Iroks_Project\Iroks_Project\bin\Release\Iroks_Project.exe
+C:\Users\Marko\Desktop\Iroks_Project\Iroks_Project\bin\Release\Iroks_Project.pdb
+C:\Users\Marko\Desktop\Iroks_Project\Iroks_Project\obj\Release\Iroks_Project.csprojAssemblyReference.cache
+C:\Users\Marko\Desktop\Iroks_Project\Iroks_Project\obj\Release\Iroks_Project.Form1.resources
+C:\Users\Marko\Desktop\Iroks_Project\Iroks_Project\obj\Release\Iroks_Project.Properties.Resources.resources
+C:\Users\Marko\Desktop\Iroks_Project\Iroks_Project\obj\Release\Iroks_Project.csproj.GenerateResource.cache
+C:\Users\Marko\Desktop\Iroks_Project\Iroks_Project\obj\Release\Iroks_Project.exe
+C:\Users\Marko\Desktop\Iroks_Project\Iroks_Project\obj\Release\Iroks_Project.pdb

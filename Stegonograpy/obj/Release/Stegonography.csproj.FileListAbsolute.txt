@@ -1,0 +1,9 @@
+C:\Users\Marko\source\repos\Stegonography\Stegonograpy\bin\Release\Stegonograpy.exe.config
+C:\Users\Marko\source\repos\Stegonography\Stegonograpy\bin\Release\Stegonograpy.exe
+C:\Users\Marko\source\repos\Stegonography\Stegonograpy\bin\Release\Stegonograpy.pdb
+C:\Users\Marko\source\repos\Stegonography\Stegonograpy\obj\Release\Stegonography.csprojAssemblyReference.cache
+C:\Users\Marko\source\repos\Stegonography\Stegonograpy\obj\Release\Stegonograpy.Form1.resources
+C:\Users\Marko\source\repos\Stegonography\Stegonograpy\obj\Release\Stegonograpy.Properties.Resources.resources
+C:\Users\Marko\source\repos\Stegonography\Stegonograpy\obj\Release\Stegonography.csproj.GenerateResource.cache
+C:\Users\Marko\source\repos\Stegonography\Stegonograpy\obj\Release\Stegonograpy.exe
+C:\Users\Marko\source\repos\Stegonography\Stegonograpy\obj\Release\Stegonograpy.pdb
