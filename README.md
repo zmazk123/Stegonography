@@ -10,12 +10,12 @@ You can download the program [here](https://github.com/zmazk123/Stegonography/bl
 
 ### Encoding
 
-1. Click on Open file an choose your bitmap image(i have already uploaded one)
+1. Click on Open file an choose your bitmap image(i have already uploaded one).
 2. Write your super secret message in the textbox and make sure that the message is not longer than the maximum message lenght displayed in the program.
-4. Click on Encode
-5. Save the image with the encoded message by clicking on Save
+4. Click on Encode.
+5. Save the image with the encoded message by clicking on Save.
 
 ### Decoding
 
-1. Click on Open file an choose your bitmap image(i have already uploaded one)
-2. Click on Decode and the message will appear in the textbox
+1. Click on Open file an choose your bitmap image(i have already uploaded one).
+2. Click on Decode and the message will appear in the textbox.
